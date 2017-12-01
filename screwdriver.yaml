@@ -2,4 +2,4 @@ jobs:
   main:
     image: node:8
     steps:
-      test: node index.js
+      - test: node index.js

@@ -1,0 +1,5 @@
+jobs:
+  main:
+    image: node:8
+    steps:
+      - node index.js

@@ -1,0 +1,15 @@
+{
+  "name": "sd-test-longcolorlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:y-takaha5hi/sd-test-longcolorlog.git"
+  },
+  "author": "Yuya Takahashi",
+  "license": "ISC"
+}
